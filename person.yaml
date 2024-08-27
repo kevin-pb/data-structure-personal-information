@@ -72,5 +72,12 @@ persons:
   age : 20
   sex : "M",
   state : true 
-  directions: []
+  directions: [[country : "España",
+                city : "Barcelona",
+                streat : "Guipuscua",
+                number : 33],
+               [country : "España",
+                city : "Barcelona",
+                streat : "Lope_de_Vega",
+                number : 191]]
          
