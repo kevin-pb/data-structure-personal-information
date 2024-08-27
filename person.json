@@ -80,7 +80,7 @@
                         "number" : 3
                        }]
     },
-    {  "name" : "Ramires",
+    {"name" : "Ramires",
     "last_name" : "Ernesto",
     "age" : 20,
     "sex" : "M",

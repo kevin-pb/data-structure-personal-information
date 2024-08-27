@@ -1,0 +1,76 @@
+persons: 
+- name : "Jose"
+  last_name : "Luiz"
+  age : 32 
+  sex : "M"
+  state : true  
+  directions: [[country : "Canada",
+               city : "Toronto",
+               streat : "Sant_Nicolas",
+               number : 76],
+               
+               [country : "Canada",
+               city : "Toronto",
+               streat : "Sant_Nicolas",
+               number : 111],
+               
+               [country : "Canada",
+               city : "Toronto",
+               streat : "Sant_Jorge",
+               number : 31],
+               
+               [country : "Canada",
+               city : "Toronto",
+               streat : "Rivers",
+               number : 51]
+               ]
+
+- name : "Juan"
+  last_name : "Cruz"
+  age : 90 
+  sex : "M"
+  state : false
+  directions: [[country : "United_Kindomg",
+                city : "Londong",
+                streat : "Gisepa",
+                number : 45],
+                
+               [country : "United_Kindomg",
+                city : "Londong",
+                streat : "Lorence",
+                number : 51],
+
+               [country : "United_Kindomg",
+                city : "Londong",
+                streat : "Radiant",
+                number : 60] 
+               ]
+
+- name : "Walter",
+  last_name : "Wite",
+  age : 40
+  sex : "M",
+  state : true 
+  directions: [[country : "US",
+                city : "New_York",
+                streat : "Jobber",
+                number : 1],
+               
+               [country" : "US",
+                 city" : "Boston",
+                 streat" : "Albert",
+                 number" : 2],
+               
+               [country : "US",
+                 city : "Washington",
+                 streat : "Smith",
+                 number : 3]
+              ]
+
+- name : "Ramires",
+  last_name : "Ernesto",
+  age : 20
+  sex : "M",
+  state : true 
+  directions: []
+         
