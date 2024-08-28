@@ -113,3 +113,32 @@ persons:
                  streat : "Lope_de_Vega",
                  number : 290]]
 
+- name : "Gerardo"
+  last_name : "Torres"
+  age : 95
+  sex : "M"
+  state : false
+  directions : [[country : "Cuba",
+                 city : "Cienfuegos",
+                 streat : "Palma",
+                 number : 47],
+                
+                [country : "Cuba",
+                 city : "Cienfuegos",
+                 streat : "Palma",
+                 number : 52]]
+
+- name : "Antonio"
+  last_name : "Membrides"
+  age : 39
+  sex : "M"
+  state : true 
+  directions : [[country : "Cuba",
+                 city : "Cienfuegos",
+                 streat : "Palma",
+                 number : 4],
+                
+                [country" : "España",
+                 city : "Barcelona",
+                 streat : "Lope_de_Vega",
+                 number : 290]]
