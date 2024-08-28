@@ -1,4 +1,4 @@
- name, last_name, age, sex, alive, country, city, streat, number                                              
+ name, last_name, age, sex, alive, country, city, streat, house_number                                              
  Jose, Luiz, 32, M, true, Canada , Toronto , Sant_Nicolas , 76
  Jose, Luiz, 32, M, true, Canada , Toronto , Sant_Nicolas , 111
  Jose, Luiz, 32, M, true, Canada , Toronto , Sant_Jorge , 31 
