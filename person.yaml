@@ -142,3 +142,33 @@ persons:
                  city : "Barcelona",
                  streat : "Lope_de_Vega",
                  number : 290]]
+
+- name : "Bruno"
+  last_name : "Iniesta"
+  age : 10
+  sex : "M"
+  state : true 
+  directions : [[country : "US",
+                 city : "Boston",
+                 streat : "Abram",
+                 number : 49],
+                 
+                [country" : "España",
+                 city" : "Barcelona",
+                 streat" : "Guipuscua",
+                 number" : 76]]
+
+- name : "Ricardo"
+  last_name : "Gusman"
+  age : 37
+  sex : "M"
+  state : true 
+  directions : [[country : "Canada",
+                 city : "Toronto",
+                 streat : "Sant_Nicolas",
+                 number : 70],
+                 
+                [country : "US",
+                 city : "Boston",
+                 streat : "Abram",
+                 number : 34]]
