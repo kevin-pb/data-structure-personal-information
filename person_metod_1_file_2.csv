@@ -1,11 +1,25 @@
- presonID,                                                                       diretions(country/city/streat/number)
-1,    Canada / Toronto / Sant_Nicolas / 76 | Canada / Toronto / Sant_Nicolas/111 | Canada / Toronto / Sant_Jorge / 31 | Canada / Toronto / Rivers / 51 
-2,             United_Kindomg / Londong / Gisepa / 45 | United_Kindomg / Londong / Lorence / 51 | United_Kindomg / Londong / Radiant / 60
-3,                                    US / New_York / Jobber / 1 | US / Boston / Albert / 2 | US / Washington / Smith / 3
-4,                                      España / Barcelona / Guipuscua / 33 | España / Barcelona / Lope_de_Vega / 191 
-5,                                                    Francia / Pariz / Frasibiu / 75 | Italia / Roma / Abram / 67
-6,                                         España / Barcelona / Rojas / 43 | España / Barcelona / Lope_de_Vega / 290   
-7,                                                Cuba / Cienfuegos / Palma / 47 | Cuba / Cienfuegos / Palma / 52
-8,                                          Cuba / Cienfuegos / Palma / 4 | España / Barcelona / Lope_de_Vega / 290
-9,                                                  US / Boston / Abram / 49 | España / Barcelona / Guipuscua / 76
-10,                                                  Canada / Toronto / Sant_Nicolas / 70 | US / Boston / Abram / 34
+ presonID, country, city, streat, house_number                                                                       
+ 1,    Canada , Toronto , Sant_Nicolas , 76   
+ 1,    Canada , Toronto , Sant_Nicolas , 111
+ 1,    Canada , Toronto , Sant_Jorge , 31
+ 1,    Canada , Toronto , Rivers , 51
+ 2,    United_Kindomg , Londong , Gisepa , 45   
+ 2,    United_Kindomg , Londong , Lorence , 51
+ 2,    United_Kindomg , Londong , Radiant , 60
+ 3,    US , New_York , Jobber , 1                                 
+ 3,    US , Boston , Albert , 2 
+ 3,    US , Washington , Smith , 3
+ 4,    España , Barcelona , Guipuscua , 33 
+ 4,    España , Barcelona , Lope_de_Vega , 191 
+ 5,    Francia / Pariz / Frasibiu / 75                          
+ 5,    Italia / Roma / Abram / 67
+ 6,    España / Barcelona / Rojas / 43
+ 6,    España / Barcelona / Lope_de_Vega / 290                                     
+ 7,    Cuba / Cienfuegos / Palma / 47
+ 7,    Cuba / Cienfuegos / Palma / 52                                              
+ 8,    Cuba / Cienfuegos / Palma / 4 
+ 8,    España / Barcelona / Lope_de_Vega / 290                                      
+ 9,    US / Boston / Abram / 49 
+ 9,    España / Barcelona / Guipuscua / 76                                               
+ 10,   Canada / Toronto / Sant_Nicolas / 70
+ 10,   US / Boston / Abram / 34                                        
