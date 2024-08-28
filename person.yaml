@@ -46,10 +46,10 @@ persons:
                 number : 60] 
                ]
 
-- name : "Walter",
-  last_name : "Wite",
+- name : "Walter"
+  last_name : "Wite"
   age : 40
-  sex : "M",
+  sex : "M"
   state : true 
   directions: [[country : "US",
                 city : "New_York",
@@ -67,10 +67,10 @@ persons:
                  number : 3]
               ]
 
-- name : "Ramires",
-  last_name : "Ernesto",
+- name : "Ramires"
+  last_name : "Ernesto"
   age : 20
-  sex : "M",
+  sex : "M"
   state : true 
   directions: [[country : "España",
                 city : "Barcelona",
@@ -81,4 +81,35 @@ persons:
                 city : "Barcelona",
                 streat : "Lope_de_Vega",
                 number : 191]]
-         
+
+- name : "Lucia"
+  last_name" : "Rodriges"
+  age : 25
+  sex : "F"
+  state : true 
+  directions : [[country : "Francia",
+                 city : "Pariz",
+                 streat : "Frasibiu",
+                 number : 75],
+
+                [country : "Italia",
+                 city : "Roma",
+                 streat : "Abram",
+                 number : 67]
+                ]
+
+- name : "Gorge"
+  last_name : "Casolas"
+  age : 50
+  sex : "M"
+  state : true
+  directions : [[country : "España",
+                 city : "Barcelona",
+                 streat : "Rojas",
+                 number : 43],
+                
+                [country : "España",
+                 city : "Barcelona",
+                 streat : "Lope_de_Vega",
+                 number : 290]]
+
