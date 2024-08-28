@@ -1,8 +1,11 @@
- name, last_name, age, sex, alive, diretions
- Jose, Luiz, 32, M, true, Canada Toronto Sant_Nicolas 76 
- Juan, Cruz, 90, M, false
- Walter, Wite, 40, M, true
- Ramires, Ernesto, 20, M, true
- Lucia, Rodriges, 25, F, true
- Gorge, Casolas, 50, M, true
- Gerardo, Torres, 95, M, false
+ name, last_name, age, sex, alive,                                              diretions(country/city/streat/number)
+ Jose, Luiz, 32, M, true, Canada / Toronto / Sant_Nicolas / 76 | Canada / Toronto / Sant_Nicolas/111 | Canada / Toronto /  Sant_Jorge / 31 | Canada / Toronto / Rivers /  51 
+ Juan, Cruz, 90, M, false,           United_Kindomg / Londong / Gisepa / 45 | United_Kindomg / Londong / Lorence / 51 | United_Kindomg / Londong / Radiant / 60
+ Walter, Wite, 40, M, true,                           US / New_York / Jobber / 1 | US / Boston / Albert / 2 | US / Washington / Smith / 3
+ Ramires, Ernesto, 20, M, true,                          España / Barcelona / Guipuscua / 33 | España / Barcelona / Lope_de_Vega / 191 
+ Lucia, Rodriges, 25, F, true,                                 Francia / Pariz / Frasibiu / 75 | Italia / Roma / Abram / 67
+ Gorge, Casolas, 50, M, true,                              España / Barcelona / Rojas / 43 | España / Barcelona / Lope_de_Vega / 290   
+ Gerardo, Torres, 95, M, false,                                 Cuba / Cienfuegos / Palma / 47 | Cuba / Cienfuegos / Palma / 52
+ Antonio, Membrides, 39, M, true,                           Cuba / Cienfuegos / Palma / 4 | España / Barcelona / Lope_de_Vega / 290
+ Bruno, Iniesta, 10, M, true,                                    US / Boston / Abram / 49 | España / Barcelona / Guipuscua / 76
+ Ricardo, Gusman, 37, M, true,                                  Canada / Toronto / Sant_Nicolas / 70 | US / Boston / Abram / 34
