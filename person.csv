@@ -1,4 +1,5 @@
- Jose, Luiz, 32, M, true 
+ name, last_name, age, sex, alive, diretions
+ Jose, Luiz, 32, M, true, 
  Juan, Cruz, 90, M, false
  Walter, Wite, 40, M, true
  Ramires, Ernesto, 20, M, true
