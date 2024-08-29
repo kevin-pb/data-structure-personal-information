@@ -199,4 +199,76 @@
                         </direction>
                 </directions>
         </persona>
+        
+        <persona>
+                <frist_name> Antonio </frist_name>
+                <last_name> Membrides </last_name>
+                <age> 39 </age>
+                <sex> M </sex>
+                <state> true </state>
+                <directions>
+
+                        <direction>
+                                <country> Cuba </country>
+                                <city> Cienfuegos </city>
+                                <streat> Palma </streat>
+                                <house_number> 4 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> España </country>
+                                <city> Barcelona </city>
+                                <streat> Lope_de_Vega </streat>
+                                <house_number> 290 </house_number>
+                        </direction>
+                </directions>
+        </persona>
+        
+        <persona>
+                <frist_name> Bruno </frist_name>
+                <last_name> Iniesta </last_name>
+                <age> 10 </age>
+                <sex> M </sex>
+                <state> true </state>
+                <directions>
+
+                        <direction>
+                                <country> US </country>
+                                <city> Boston </city>
+                                <streat> Abram </streat>
+                                <house_number> 49 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> España </country>
+                                <city> Barcelona </city>
+                                <streat> Guipuscua </streat>
+                                <house_number> 76 </house_number>
+                        </direction>
+                </directions>
+        </persona>
+        
+        <persona>
+                <frist_name> Ricardo </frist_name>
+                <last_name> Gusman </last_name>
+                <age> 37 </age>
+                <sex> M </sex>
+                <state> true </state>
+                <directions>
+
+                        <direction>
+                                <country> Canada </country>
+                                <city> Toronto </city>
+                                <streat> Sant_Nicolas </streat>
+                                <house_number> 70 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> US </country>
+                                <city> Boston </city>
+                                <streat> Abram </streat>
+                                <house_number> 34 </house_number>
+                        </direction>
+                </directions>
+        </persona>
 </personas>
