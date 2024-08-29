@@ -127,9 +127,8 @@
                 </directions>
         
         </persona>
-        
-        </persona>
-                <persona>
+
+        <persona>
                 <frist_name> Lucia </frist_name>
                 <last_name> Rodriges </last_name>
                 <age> 25 </age>
@@ -149,6 +148,54 @@
                                 <city> Roma </city>
                                 <streat> Abram </streat>
                                 <house_number> 67 </house_number>
+                        </direction>
+                </directions>
+        </persona>
+
+        <persona>
+                <frist_name> Gorge </frist_name>
+                <last_name> Casolas </last_name>
+                <age> 50 </age>
+                <sex> M </sex>
+                <state> true </state>
+                <directions>
+
+                        <direction>
+                                <country> España </country>
+                                <city> Barcelona </city>
+                                <streat> Rojas </streat>
+                                <house_number> 43 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> España </country>
+                                <city> Barcelona </city>
+                                <streat> Lope_de_Vega </streat>
+                                <house_number> 290 </house_number>
+                        </direction>
+                </directions>
+        </persona>
+        
+        <persona>
+                <frist_name> Gerardo </frist_name>
+                <last_name> Torres </last_name>
+                <age> 95 </age>
+                <sex> M </sex>
+                <state> false </state>
+                <directions>
+
+                        <direction>
+                                <country> Cuba </country>
+                                <city> Cienfuegos </city>
+                                <streat> Palma </streat>
+                                <house_number> 47 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> Cuba </country>
+                                <city> Cienfuegos </city>
+                                <streat> Palma </streat>
+                                <house_number> 52 </house_number>
                         </direction>
                 </directions>
         </persona>
