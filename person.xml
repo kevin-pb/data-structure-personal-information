@@ -1,16 +1,155 @@
 <?xml version = "1.0" encoding = "UFT-8"?>
 <personas>
- <persona>
-  <frist_name> Jose </frist_name>
-  <last_name> Luiz </last_name>
-  <age> 32 </age>
-  <sex> M </sex>
-  <state> true </state>
-  <directions>
-  <direction>
-  <country> Canada </country>
-  <city> Toronto </city>
-  </direction>
-  </directions>
-</persona>
+        <!-- Exmple for a explicit xml format -->
+        <persona frist_name="Jose" last_name="Luiz" age="32" state="true" />
+        <!-- Exmple for a tags xml format -->
+        <persona>
+                <frist_name> Jose </frist_name>
+                <last_name> Luiz </last_name>
+                <age> 32 </age>
+                <sex> M </sex>
+                <state> true </state>
+                <directions>
+
+                        <direction>
+                                <country> Canada </country>
+                                <city> Toronto </city>
+                                <streat> Sant_Nicolas </streat>
+                                <house_number> 76 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> Canada </country>
+                                <city> Toronto </city>
+                                <streat> Sant_Nicolas </streat>
+                                <house_number> 111 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> Canada </country>
+                                <city> Toronto </city>
+                                <streat> Sant_Jorge </streat>
+                                <house_number> 31 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> Canada </country>
+                                <city> Toronto </city>
+                                <streat> Rivers </streat>
+                                <house_number> 51 </house_number>
+                        </direction>
+                </directions>
+        </persona>
+
+        <persona>
+                <frist_name> Juan </frist_name>
+                <last_name> Cruz </last_name>
+                <age> 90 </age>
+                <sex> M </sex>
+                <state> false </state>
+                <directions>
+
+                        <direction>
+                                <country> United_Kindomg </country>
+                                <city> Londong </city>
+                                <streat> Gisepa </streat>
+                                <house_number> 45 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> United_Kindomg </country>
+                                <city> Londong </city>
+                                <streat> Lorence </streat>
+                                <house_number> 51 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> United_Kindomg </country>
+                                <city> Londong </city>
+                                <streat> Radiant </streat>
+                                <house_number> 60 </house_number>
+                        </direction>
+                </directions>
+        </persona>
+
+        <persona>
+                <frist_name> Walter </frist_name>
+                <last_name> Wite </last_name>
+                <age> 40 </age>
+                <sex> M </sex>
+                <state> true </state>
+                <directions>
+
+                        <direction>
+                                <country> US </country>
+                                <city> New_York </city>
+                                <streat> Jobber </streat>
+                                <house_number> 1 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> US </country>
+                                <city> Boston </city>
+                                <streat> Albert </streat>
+                                <house_number> 2 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> US </country>
+                                <city> Washington </city>
+                                <streat> Smith </streat>
+                                <house_number> 3 </house_number>
+                        </direction>
+                </directions>
+        </persona>
+                
+        <persona>
+                <frist_name> Ramires </frist_name>
+                <last_name> Ernesto </last_name>
+                <age> 20 </age>
+                <sex> M </sex>
+                <state> true </state>
+                <directions>
+
+                        <direction>
+                                <country> España </country>
+                                <city> Barcelona </city>
+                                <streat> Guipuscua </streat>
+                                <house_number> 33 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> España </country>
+                                <city> Barcelona </city>
+                                <streat> Lope_de_Vega </streat>
+                                <house_number> 191 </house_number>
+                        </direction>
+                </directions>
+        
+        </persona>
+        
+        </persona>
+                <persona>
+                <frist_name> Lucia </frist_name>
+                <last_name> Rodriges </last_name>
+                <age> 25 </age>
+                <sex> F </sex>
+                <state> true </state>
+                <directions>
+
+                        <direction>
+                                <country> Francia </country>
+                                <city> Pariz </city>
+                                <streat> Frasibiu </streat>
+                                <house_number> 75 </house_number>
+                        </direction>
+
+                        <direction>
+                                <country> Italia </country>
+                                <city> Roma </city>
+                                <streat> Abram </streat>
+                                <house_number> 67 </house_number>
+                        </direction>
+                </directions>
+        </persona>
 </personas>
