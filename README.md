@@ -11,3 +11,6 @@ In this project we want to represent information in different data structures. T
 4- TOML (Tom's Obvious Minimal Language)
 
 5- XML (eXtensible Markup Language)
+
+6- INI (windows INItialization file)
+
