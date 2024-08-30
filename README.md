@@ -16,3 +16,7 @@ In this project we want to represent information in different data structures. T
 
 ### CSV:
 El CSV(Coma Separated Value) como su nombre lo indica, es una estructura de datos en donde los valores se separan por comas. El CSV es legible por programas como Excel, siendo las comas las que definen las columnas. Al querer representar la información en CSV me topé con un inconveniente, este se trataba de que uno de los datos para ser más específicos, las direcciones no se podía representar de forma común. Se me vinieron a la mente dos posibles soluciones; una era la de duplicar la información de forma en la cual las direcciones coincidan con sus respectivas personas y la otra era la de crear una archivo aparte donde colocar las direcciones. A partir de eso se pudo tener una solución.
+
+### JSON:
+
+El JSON fue uno de los mas faciles de todos 
