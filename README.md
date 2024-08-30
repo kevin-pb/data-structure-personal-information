@@ -14,5 +14,6 @@ In this project we want to represent information in different data structures. T
 
 6- INI (windows INItialization file)
 
-### CSV:
-El CSV(Coma Separated Value) como su nombre lo indica, es una estructura de datos en donde los valores se separan por comas. El CSV es legible por programas como Excel, siendo las comas las que definen las columnas. Al querer representar la información en CSV me topé con un inconveniente, este se trataba de que uno de los datos para ser más específicos, las direcciones no se podía representar de forma común. Se me vinieron a la mente dos posibles soluciones; una era la de duplicar la información de forma en la cual las direcciones coincidan con sus respectivas personas y la otra era la de crear una archivo aparte donde colocar las direcciones. A partir de eso se pudo tener una solución. A partir de esas dos opciones se puede usar la que prefiras. 
+### Problems:
+CSV (Comma Separated Value), as the name implies, is a data structure where values ​​are separated by commas. CSV is readable by programs like Excel, with commas defining the columns. When I wanted to represent the information in CSV, I ran into a problem. This was that one of the data, to be more specific, the addresses could not be represented in a common way. I came up with two possible solutions; one was to duplicate the information so that the addresses matched their respective persons and the other was to create a separate file where the addresses could be placed. From there, a solution could be found. Of those two options, you can use the one you prefer. On the other hand, the rest of the data structures did not cause any problems.
+
