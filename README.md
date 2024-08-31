@@ -14,14 +14,22 @@ CSV (Comma Separated Value), as the name implies, is a data structure where valu
 
 #### Metod 2:
 
-[File](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person_metod_2.csv)
+[Metod_2](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person_metod_2.csv)
 
-3- YAML( Ain't Markup Language)
+## 2- JSON(JavaScript Object Notation)
 
-4- TOML (Tom's Obvious Minimal Language)
+El JSON fue la estructura de datos mas sincilla de trabajar por la simplesa de su codigo. El JSON se basa en la creacion de objetos que a partir de bloques de codigo. En estos bloques de codigo se coloca nformacion sobre el objeto en cuestion, a partir de eso cree objetos para cada persona. Para representar las direcciones cree una lista de objetos siendo cada uno de esos objetos una direcion asignada ala persona.
 
-5- XML (eXtensible Markup Language)
+[JSON](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.json)
 
-6- INI (windows INItialization file)
+## 3- YAML( Ain't Markup Language)
+
+
+
+## 4- TOML (Tom's Obvious Minimal Language)
+
+## 5- XML (eXtensible Markup Language)
+
+## 6- INI (windows INItialization file)
 
  
