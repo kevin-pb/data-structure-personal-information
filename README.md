@@ -10,11 +10,11 @@ CSV (Comma Separated Value), as the name implies, is a data structure where valu
 
 [File_1](https://github.com/kevin-pbdata-structure-personal-information/blob/master/person_metod_1_file_1%20.csv)
 
-[File_2](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person_metod_1_file_2.csv,)
+[File_2](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person_metod_1_file_2.csv)
 
 #### Metod 2:
 
-
+[File](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person_metod_2.csv)
 
 3- YAML( Ain't Markup Language)
 
