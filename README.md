@@ -32,10 +32,46 @@ El YAML sigue una estructura de jerarquía basada en las tabulaciones. En el YAM
 
 El TOML Sigue una estructura clave valor simple. Use el clave valor para representar la información de las personas y para las direcciones use listas.
 
-[TOML](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.yaml)
+[TOML](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.toml)
 
 ## 5- XML (eXtensible Markup Language)
 
+XML sigue un sistema de etiquetas mediante las cuales puedes almacenar informacion, es algo similar al HTML con la diferencia de que las etiquetas las pones tu. Habia dos posibles soluciones la primera era la de crear un solo tag y colocarle la informacion como atributos y la otra era la de crear varios tags para guardar la informacion. Por comodidad y gusto personal decidi usar la sengunda opcion.
+
+[XML](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.xml)
+
 ## 6- INI (windows INItialization file)
 
- 
+En le archivo ini mediante el clave valor fue sencillo el representar la informacion y para crepresentar la fecha use una lista. En ini hay varias formas de hacer listas:
+
+### [General]
+comma_separated=Value1, Value2, Value3
+
+semicolon_separated=Value1; Value2; Value3
+
+space_separated=Value1 Value2 Value3
+
+### [multi_line]
+key=Value1
+
+key=Value2
+
+key=Value3
+
+### [numbered_keys]
+key1=Value1
+
+key2=Value2
+
+key3=Value3
+
+### [indexed_keys]
+key[0]=Value1
+
+key[1]=Value2
+
+key[2]=Value3
+
+Por combeneiencia use el general con el comma_separated_value.
+
+[INI](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.ini)
