@@ -3,7 +3,8 @@ name = "Jose"
   age = 32 
   sex = "M"
   state = true  
-  directions = [[country = "Canada", city = "Toronto",
+  directions = [[country = "Canada",
+               city = "Toronto",
                streat = "Sant_Nicolas",
                number = 76],
                
