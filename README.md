@@ -18,15 +18,21 @@ CSV (Comma Separated Value), as the name implies, is a data structure where valu
 
 ## 2- JSON(JavaScript Object Notation)
 
-El JSON fue la estructura de datos mas sincilla de trabajar por la simplesa de su codigo. El JSON se basa en la creacion de objetos que a partir de bloques de codigo. En estos bloques de codigo se coloca nformacion sobre el objeto en cuestion, a partir de eso cree objetos para cada persona. Para representar las direcciones cree una lista de objetos siendo cada uno de esos objetos una direcion asignada ala persona.
+El JSON fue la estructura de datos más sencilla de trabajar por la simpleza de su código. El JSON se basa en la creación de objetos que a partir de bloques de código. En estos bloques de código se coloca información sobre el objeto en cuestión, a partir de eso cree objetos para cada persona. Para representar las direcciones, cree una lista de objetos, siendo cada uno de esos objetos una dirección asignada a la persona.
 
 [JSON](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.json)
 
 ## 3- YAML( Ain't Markup Language)
 
+El YAML sigue una estructura de jerarquía basada en las tabulaciones. En el YAML usé listas para representar toda la información incluida la de las direcciones.
 
+[YAML](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.yaml)
 
 ## 4- TOML (Tom's Obvious Minimal Language)
+
+El TOML Sigue una estructura clave valor simple. Use el clave valor para representar la información de las personas y para las direcciones use listas.
+
+[TOML](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.yaml)
 
 ## 5- XML (eXtensible Markup Language)
 
