@@ -18,31 +18,31 @@ CSV (Comma Separated Value), as the name implies, is a data structure where valu
 
 ## 2- JSON(JavaScript Object Notation)
 
-El JSON fue la estructura de datos más sencilla de trabajar por la simpleza de su código. El JSON se basa en la creación de objetos que a partir de bloques de código. En estos bloques de código se coloca información sobre el objeto en cuestión, a partir de eso cree objetos para cada persona. Para representar las direcciones, cree una lista de objetos, siendo cada uno de esos objetos una dirección asignada a la persona.
+JSON was the easiest data structure to work with because of the simplicity of its code. JSON is based on the creation of objects from blocks of code. In these blocks of code, information about the object in question is placed, from which objects are created for each person. To represent addresses, a list of objects is created, each of these objects being an address assigned to the person.
 
 [JSON](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.json)
 
 ## 3- YAML( Ain't Markup Language)
 
-El YAML sigue una estructura de jerarquía basada en las tabulaciones. En el YAML usé listas para representar toda la información incluida la de las direcciones.
+The YAML follows a tab-based hierarchy structure. In the YAML I used lists to represent all the information including the address information.
 
 [YAML](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.yaml)
 
 ## 4- TOML (Tom's Obvious Minimal Language)
 
-El TOML Sigue una estructura clave valor simple. Use el clave valor para representar la información de las personas y para las direcciones use listas.
+TOML follows a simple key-value structure. Use key-values ​​to represent information about people and use lists for addresses.
 
 [TOML](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.toml)
 
 ## 5- XML (eXtensible Markup Language)
 
-XML sigue un sistema de etiquetas mediante las cuales puedes almacenar informacion, es algo similar al HTML con la diferencia de que las etiquetas las pones tu. Habia dos posibles soluciones la primera era la de crear un solo tag y colocarle la informacion como atributos y la otra era la de crear varios tags para guardar la informacion. Por comodidad y gusto personal decidi usar la sengunda opcion.
+XML sigue un sistema de etiquetas mediante las cuales puedes almacenar información, es algo similar al HTML con la diferencia de que las etiquetas las pones tú. Había dos posibles soluciones, la primera era la de crear un solo tag y colocarle la información como atributos y la otra era la de crear varios tags para guardar la información. Por comodidad y gusto personal decidí usar la segunda opción.
 
 [XML](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.xml)
 
 ## 6- INI (windows INItialization file)
 
-En le archivo ini mediante el clave valor fue sencillo el representar la informacion y para crepresentar la fecha use una lista. En ini hay varias formas de hacer listas:
+In the INI file, it was easy to represent the information using the key value, and to represent the date I used a list. In INI there are several ways to make lists:
 
 ### [General]
 comma_separated=Value1, Value2, Value3
@@ -72,6 +72,6 @@ key[1]=Value2
 
 key[2]=Value3
 
-Por combeneiencia use el general con el comma_separated_value.
+For convenience I use the general with the comma_separated_value.
 
 [INI](https://github.com/kevin-pb/data-structure-personal-information/blob/master/person.ini)
